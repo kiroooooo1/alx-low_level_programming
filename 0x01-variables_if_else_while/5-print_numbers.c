@@ -16,6 +16,7 @@ int main(void)
 
 	for (i = 0; i < 10; i++)
 	ptintf("%d", i);
+	printf("\n");
 
 	return (0);
 
